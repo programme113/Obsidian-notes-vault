@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "a3d60b1d9c29ecbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1adf155899469288",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dcc0ade812f047e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语语法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54178ae4f005bb89",
+    "type": "split",
+    "children": [
+      {
+        "id": "16d53846bf662b1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e6a02ad5660c2c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b9183b162cf126e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea25439dbeb7e8d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ba1bcf2dfa62605",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcfa2b3e0a5c2c08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04023c708d2a02e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "英语语法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75034a7847ddece6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "英语语法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2da1d0fcc9ab8e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b2de7c20e16f030b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "英语语法.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "5dcc0ade812f047e",
+  "lastOpenFiles": [
+    "英语语法/英语句法.md",
+    "单词索引.md",
+    "首字母索引/首字母索引.md",
+    "首字母索引/A'.md",
+    "words/A/abide.md",
+    "words/A/abandon.md",
+    "英语语法/补语 (Complement).md",
+    "英语语法/定语 (Adjective Phrase).md",
+    "英语语法/省略句.md",
+    "英语语法/强调句.md",
+    "英语语法/倒装句.md",
+    "英语语法/虚拟语气.md",
+    "英语语法/祈使句.md",
+    "英语语法/陈述句.md",
+    "英语语法/并列复合句.md",
+    "英语语法/主从复合句.md",
+    "英语语法/名词性从句.md",
+    "英语语法.md",
+    "英语语法/英语语态.md",
+    "英语语法/英语时态.md",
+    "英语语法/英语词法.md",
+    "英语语法/感叹词 (Interjection).md",
+    "英语语法/数词 (Numeral).md",
+    "英语语法/冠词 (Article).md",
+    "英语语法/限定词 (Determiner).md",
+    "英语语法/介词 (Preposition).md"
+  ]
+}
